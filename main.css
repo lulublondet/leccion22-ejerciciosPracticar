@@ -70,6 +70,7 @@ p.bottom {
 
 #cuarto-ejercicio {
 	margin-top: 60px;	
+	margin-bottom: 60px;	
 }
 
 #cuarto-ejercicio p {
@@ -82,4 +83,15 @@ p.bottom {
 #cuarto-ejercicio p.bottom {
 	font-size: 2.5em;	
 } 
+
+
+a {
+	border: solid 2px;	
+	border-top-color: red;
+	border-right-color: green;
+	border-bottom-color: yellow;
+	border-left-color: orange;				
+    text-decoration: none;	
+	font-size: 3em;	
+}
 
