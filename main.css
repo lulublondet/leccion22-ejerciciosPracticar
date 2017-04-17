@@ -1,14 +1,10 @@
 
-* {
- font-size: 62.5%;	
- font-family: 'Raleway', sans-serif;	
-}
-
-
 body {
 	margin: 0px;
 	padding:0px;
 	margin-left: 10px;	
+	font-size: 62.5%;	
+    font-family: 'Raleway', sans-serif;	
 }
 
 
@@ -27,17 +23,35 @@ body {
 
 
  p.top {
- 	font-size: 4em;	
+ 	font-size: 2.5em;	
  	background-color: yellow;	 	
  }
 
 p.middle {
-	font-size:  4em;		
+	font-size:  2.5em;		
 	background-color: #eb234e;
 }
 
 p.bottom {
-	font-size: 6em;	
+	font-size: 4em;	
 	text-transform: uppercase;				
 	background-color: yellow;	
+}
+
+
+
+#segundo-ejercicio {
+	margin-top: 60px;
+	font-size: 		
+}
+
+
+#segundo-ejercicio p {
+	width: 25%;	
+	margin: 20px;
+			
+}
+
+#segundo-ejercicio p.bottom {
+	font-size: 3.5em;	
 }
